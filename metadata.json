@@ -1,0 +1,6 @@
+{
+  "name": "FitForge - AI Fitness & Nutrition Platform",
+  "description": "Comprehensive fitness platform with workout tracking, Indian food nutrition database, body progress analytics, and AI fitness coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
